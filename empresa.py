@@ -1,7 +1,4 @@
-# Linguagem de Programação II
-# Atividade Contínua 04 - Classes abstratas, herança e polimorfismo
-#
-# e-mail: nome.sobrenome@aluno.faculdadeimpacta.com.br
+#Classes abstratas, herança e polimorfismo
 
 from typing import Dict, List
 import functools
